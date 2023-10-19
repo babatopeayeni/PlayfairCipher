@@ -1,0 +1,10 @@
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 6\Ayeni_B_ModifiedPlayfairCipher\ModifiedPlayfairCipher\bin\Debug\ModifiedPlayfairCipher.exe.config
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 6\Ayeni_B_ModifiedPlayfairCipher\ModifiedPlayfairCipher\bin\Debug\ModifiedPlayfairCipher.exe
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 6\Ayeni_B_ModifiedPlayfairCipher\ModifiedPlayfairCipher\bin\Debug\ModifiedPlayfairCipher.pdb
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 6\Ayeni_B_ModifiedPlayfairCipher\ModifiedPlayfairCipher\obj\Debug\ModifiedPlayfairCipher.csproj.AssemblyReference.cache
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 6\Ayeni_B_ModifiedPlayfairCipher\ModifiedPlayfairCipher\obj\Debug\ModifiedPlayfairCipher.Form1.resources
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 6\Ayeni_B_ModifiedPlayfairCipher\ModifiedPlayfairCipher\obj\Debug\ModifiedPlayfairCipher.Properties.Resources.resources
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 6\Ayeni_B_ModifiedPlayfairCipher\ModifiedPlayfairCipher\obj\Debug\ModifiedPlayfairCipher.csproj.GenerateResource.cache
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 6\Ayeni_B_ModifiedPlayfairCipher\ModifiedPlayfairCipher\obj\Debug\ModifiedPlayfairCipher.csproj.CoreCompileInputs.cache
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 6\Ayeni_B_ModifiedPlayfairCipher\ModifiedPlayfairCipher\obj\Debug\ModifiedPlayfairCipher.exe
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 6\Ayeni_B_ModifiedPlayfairCipher\ModifiedPlayfairCipher\obj\Debug\ModifiedPlayfairCipher.pdb
